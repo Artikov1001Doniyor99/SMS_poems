@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/PDP_LESSONS/Modul_5_lesson_8_4_sms/app/src/main/res/drawable/button_all.xml" value="0.16574074074074074" />
+        <entry key="..\:/PDP_LESSONS/Modul_5_lesson_8_4_sms/app/src/main/res/drawable/ic___000_mb.xml" value="0.1712962962962963" />
+        <entry key="..\:/PDP_LESSONS/Modul_5_lesson_8_4_sms/app/src/main/res/drawable/ic_copy.xml" value="0.16574074074074074" />
+        <entry key="..\:/PDP_LESSONS/Modul_5_lesson_8_4_sms/app/src/main/res/drawable/ic_frame.xml" value="0.1712962962962963" />
+        <entry key="..\:/PDP_LESSONS/Modul_5_lesson_8_4_sms/app/src/main/res/drawable/ic_hit.xml" value="0.1712962962962963" />
+        <entry key="..\:/PDP_LESSONS/Modul_5_lesson_8_4_sms/app/src/main/res/drawable/ic_like.xml" value="0.16574074074074074" />
+        <entry key="..\:/PDP_LESSONS/Modul_5_lesson_8_4_sms/app/src/main/res/drawable/ic_like_empty.xml" value="0.1" />
+        <entry key="..\:/PDP_LESSONS/Modul_5_lesson_8_4_sms/app/src/main/res/drawable/ic_megabayt_copy.xml" value="0.1712962962962963" />
+        <entry key="..\:/PDP_LESSONS/Modul_5_lesson_8_4_sms/app/src/main/res/drawable/ic_rectangle_copy.xml" value="0.1712962962962963" />
+        <entry key="..\:/PDP_LESSONS/Modul_5_lesson_8_4_sms/app/src/main/res/drawable/ic_rectangle_copy_5.xml" value="0.1712962962962963" />
+        <entry key="..\:/PDP_LESSONS/Modul_5_lesson_8_4_sms/app/src/main/res/drawable/ic_saqlanganlar.xml" value="0.16574074074074074" />
+        <entry key="..\:/PDP_LESSONS/Modul_5_lesson_8_4_sms/app/src/main/res/drawable/ic_share.xml" value="0.16574074074074074" />
+        <entry key="..\:/PDP_LESSONS/Modul_5_lesson_8_4_sms/app/src/main/res/drawable/ic_sms.xml" value="0.16574074074074074" />
+        <entry key="..\:/PDP_LESSONS/Modul_5_lesson_8_4_sms/app/src/main/res/drawable/linearayout_back.xml" value="0.16574074074074074" />
+        <entry key="..\:/PDP_LESSONS/Modul_5_lesson_8_4_sms/app/src/main/res/drawable/radius_btns.xml" value="0.16574074074074074" />
+        <entry key="..\:/PDP_LESSONS/Modul_5_lesson_8_4_sms/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/PDP_LESSONS/Modul_5_lesson_8_4_sms/app/src/main/res/layout/castom_bottom_sheet_tag.xml" value="0.19375" />
+        <entry key="..\:/PDP_LESSONS/Modul_5_lesson_8_4_sms/app/src/main/res/layout/custom_dialog_view.xml" value="0.1" />
+        <entry key="..\:/PDP_LESSONS/Modul_5_lesson_8_4_sms/app/src/main/res/layout/dialog_view.xml" value="0.25" />
+        <entry key="..\:/PDP_LESSONS/Modul_5_lesson_8_4_sms/app/src/main/res/layout/fragment_dostlik.xml" value="0.1" />
+        <entry key="..\:/PDP_LESSONS/Modul_5_lesson_8_4_sms/app/src/main/res/layout/fragment_hazil.xml" value="0.1" />
+        <entry key="..\:/PDP_LESSONS/Modul_5_lesson_8_4_sms/app/src/main/res/layout/fragment_home.xml" value="0.2" />
+        <entry key="..\:/PDP_LESSONS/Modul_5_lesson_8_4_sms/app/src/main/res/layout/fragment_ota_ona.xml" value="0.18" />
+        <entry key="..\:/PDP_LESSONS/Modul_5_lesson_8_4_sms/app/src/main/res/layout/fragment_saqlanganlar.xml" value="0.18" />
+        <entry key="..\:/PDP_LESSONS/Modul_5_lesson_8_4_sms/app/src/main/res/layout/fragment_sevgi.xml" value="0.15" />
+        <entry key="..\:/PDP_LESSONS/Modul_5_lesson_8_4_sms/app/src/main/res/layout/fragment_soginch.xml" value="0.15" />
+        <entry key="..\:/PDP_LESSONS/Modul_5_lesson_8_4_sms/app/src/main/res/layout/fragment_tabrik.xml" value="0.15" />
+        <entry key="..\:/PDP_LESSONS/Modul_5_lesson_8_4_sms/app/src/main/res/layout/fragment_yangilar.xml" value="0.1" />
+        <entry key="..\:/PDP_LESSONS/Modul_5_lesson_8_4_sms/app/src/main/res/layout/item_sher.xml" value="0.22" />
+        <entry key="..\:/PDP_LESSONS/Modul_5_lesson_8_4_sms/app/src/main/res/layout/item_sms.xml" value="0.19375" />
+        <entry key="..\:/PDP_LESSONS/Modul_5_lesson_8_4_sms/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1712962962962963" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

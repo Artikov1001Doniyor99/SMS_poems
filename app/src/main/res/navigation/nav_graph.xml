@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/homeFragment">
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.example.modul_5_lesson_8_4_sms.HomeFragment"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" >
+        <action
+            android:id="@+id/action_homeFragment_to_yangilarFragment"
+            app:destination="@id/yangilarFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_saqlanganlarFragment"
+            app:destination="@id/saqlanganlarFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_sevgiFragment"
+            app:destination="@id/sevgiFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_soginchFragment"
+            app:destination="@id/soginchFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_otaOnaFragment"
+            app:destination="@id/otaOnaFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_dostlikFragment"
+            app:destination="@id/dostlikFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_hazilFragment"
+            app:destination="@id/hazilFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/yangilarFragment"
+        android:name="com.example.modul_5_lesson_8_4_sms.YangilarFragment"
+        android:label="fragment_yangilar"
+        tools:layout="@layout/fragment_yangilar" />
+    <fragment
+        android:id="@+id/saqlanganlarFragment"
+        android:name="com.example.modul_5_lesson_8_4_sms.SaqlanganlarFragment"
+        android:label="fragment_saqlanganlar"
+        tools:layout="@layout/fragment_saqlanganlar" />
+    <fragment
+        android:id="@+id/sevgiFragment"
+        android:name="com.example.modul_5_lesson_8_4_sms.SevgiFragment"
+        android:label="fragment_sevgi"
+        tools:layout="@layout/fragment_sevgi" />
+    <fragment
+        android:id="@+id/soginchFragment"
+        android:name="com.example.modul_5_lesson_8_4_sms.SoginchFragment"
+        android:label="fragment_soginch"
+        tools:layout="@layout/fragment_soginch" />
+    <fragment
+        android:id="@+id/tabrikFragment"
+        android:name="com.example.modul_5_lesson_8_4_sms.TabrikFragment"
+        android:label="fragment_tabrik"
+        tools:layout="@layout/fragment_tabrik" >
+        <action
+            android:id="@+id/action_tabrikFragment_to_homeFragment"
+            app:destination="@id/homeFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/otaOnaFragment"
+        android:name="com.example.modul_5_lesson_8_4_sms.OtaOnaFragment"
+        android:label="fragment_ota_ona"
+        tools:layout="@layout/fragment_ota_ona" />
+    <fragment
+        android:id="@+id/dostlikFragment"
+        android:name="com.example.modul_5_lesson_8_4_sms.DostlikFragment"
+        android:label="fragment_dostlik"
+        tools:layout="@layout/fragment_dostlik" />
+    <fragment
+        android:id="@+id/hazilFragment"
+        android:name="com.example.modul_5_lesson_8_4_sms.HazilFragment"
+        android:label="fragment_hazil"
+        tools:layout="@layout/fragment_hazil" />
+</navigation>
